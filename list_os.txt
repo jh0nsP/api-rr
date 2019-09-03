@@ -1,0 +1,7 @@
+Windows NT 6.2,Windows NT 6.1
+,Windows NT 10
+,Mac OS
+,Linux
+,iPad
+,iPhone
+,Android
